@@ -1,0 +1,22 @@
+* Crie um programa capaz de ler os dados de uma (matriz quadrada) de
+inteiros. Ao final da leitura o programa deverá imprimir o número da linha que
+contém o menor dentre todos os números lidos.
+
+A matriz quadrada é um tipo especial de matriz. Uma matriz é classificada como quadrada
+quando possui o número de linhas igual ao número de colunas.
+
+https://www.youtube.com/watch?v=lEW94P355Qs&ab_channel=B%C3%B3sonTreinamentos
+
+
+* Faça um programa que crie um vetor de pessoas. Os dados de uma pessoa
+devem ser armazenados em uma variável do tipo struct. O programa deve
+permitir que o usuário digite o nome de 3 pessoas e a seguir imprime os
+dados de todas as pessoas. A struct deve armazenar os dados de idade,
+peso e altura.
+
+* Crie uma função capaz de multiplicar uma linha de uma matriz por um dado número. Faça o mesmo para uma coluna.
+ 
+
+* Faça um programa que leia a quantidade de elementos n, e crie dinamicamente um vetor de n elementos	e passe
+ esse vetor para uma	função	que irá ler os elementos desse vetor. Depois, no programa principal,
+ 	o vetor	preenchido deve ser impresso.
